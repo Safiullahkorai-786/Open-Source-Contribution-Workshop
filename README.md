@@ -6,7 +6,7 @@
 ## A
  <div>
 <img src="https://avatars.githubusercontent.com/u/100577588?v=4" width="100px" alt="Safiullah Korai"/>  
-<a href="https://github.com/safiullahkorai-786/" target="_blank">Safiullah Korai</a>
+<p><a href="https://github.com/safiullahkorai-786/" target="_blank">Safiullah Korai</a></p>
  </div>
 
 ## B
