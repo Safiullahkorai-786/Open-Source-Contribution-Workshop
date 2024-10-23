@@ -70,7 +70,10 @@
 
 
 ## V
-
+ <div>
+<img src="https://avatars.githubusercontent.com/u/116957144?v=4" width="100px" alt="Vijay Kumar Malhi's Picture"/>  
+<p><a href="https://github.com/VijayMalhi047" target="_blank">Vijay Kumar</a></p>
+ </div>
 
 ## W
 
