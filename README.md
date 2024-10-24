@@ -5,7 +5,10 @@
 
 ## A
 
-
+ <div>
+<img src="https://avatars.githubusercontent.com/u/150029032?v=4" width="100px" alt="Abdul Majid  Picture"/>  
+<p><a href="https://github.com/AbdulMajidtangri" target="_blank">Abdul Majid </a></p>
+ </div>
 ## B
 
 
