@@ -78,7 +78,10 @@
 
 
 ## U
-
+ <div>
+<img src="https://avatars.githubusercontent.com/u/144419979?v=4" width="100px" alt="Ujjwal"/>  
+<p><a href="https://github.com/ItsUjjwalGoel" target="_blank">Ujjwal</a></p>
+ </div>
 
 ## V
  <div>
